@@ -1,5 +1,5 @@
 # Your Project's Title...
-Your project's description...
+This project uses [AEM](https://author-p7555-e14376.adobeaemcloud.com/ui#/aem/sites.html/content/edsdemo3) to serve content
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
