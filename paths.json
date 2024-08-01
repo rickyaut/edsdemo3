@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/edsdemo3/:/",
-    "/content/edsdemo3/configuration:/.helix/config.json"
+    "/content/edsdemo3/:/"
   ]
 }
